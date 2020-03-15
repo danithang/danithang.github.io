@@ -2574,7 +2574,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 30%;
+			max-width: 80%;
 		}
 
 			.image.left img, .image.right img {
@@ -2611,6 +2611,7 @@ input, select, textarea {
 
 			.image.main img {
 				width: 80%;
+				border-radius: 50%;
 			}
 
 /* List */
